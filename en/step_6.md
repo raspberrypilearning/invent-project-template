@@ -33,7 +33,12 @@ What cool new thing(s) did you learn? <mark>free text answer, 3 characters possi
 --- /task ---
 
 --- task ---
-Mistakes are the "portals of discovery" (James Joyce, Ulysses). What mistakes did you make and how did they help you create your ... <mark>free text answer, 3 characters possibly</mark>
+<mark> some ideas, delete as needed </mark> Mistakes are the "portals of discovery" (James Joyce, Ulysses). 
+The Nobel Prize-winning physicist Niels Bohr said, “An expert is a person who has made all the mistakes that can be made”.
+Mistakes are powerful.
+Mistakes are empowering. 
+
+What mistakes did you make and how did they help you create your ... <mark>free text answer, 3 characters possibly</mark>
 --- /task ---
 
 ### Now you are (the author of a digital book)!
