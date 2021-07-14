@@ -22,14 +22,16 @@ something
 --- /task ---
 
 
-Reflecting about how you made your ... will help you in your future projects:
+Reflecting about how you made your ... will help you in your future projects.
+
+Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
 
 --- task ---
-How did you get your ideas? <mark>free text answer, 3 characters possibly</mark>
+How did you get your ideas? 
 --- /task ---
 
 --- task ---
-What cool new thing(s) did you learn? <mark>free text answer, 3 characters possibly</mark>
+What cool new thing(s) did you learn?
 --- /task ---
 
 --- task ---
@@ -38,7 +40,7 @@ The Nobel Prize-winning physicist Niels Bohr said, “An expert is a person who 
 Mistakes are powerful.
 Mistakes are empowering. 
 
-What mistakes did you make and how did they help you create your ... <mark>free text answer, 3 characters possibly</mark>
+What mistakes did you make and how did they help you create your ... ?
 --- /task ---
 
 ### Now you are (the author of a digital book)!
@@ -47,7 +49,7 @@ Take a moment to celebrate what you have made.
 
 --- task ---
 
-Where will you take your new powers? What will you make next? <mark>free text answer, 3 characters possibly</mark>
+Where will you take your new powers? What will you make next?
 
 --- /task ---
 
