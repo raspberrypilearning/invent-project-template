@@ -13,6 +13,7 @@ You will:
 + 
 
 --- no-print ---
+
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
@@ -82,7 +83,9 @@ Click on the character and object to choose the ones you want in the story, then
 --- /no-print ---
 
 --- print-only ---
+
 ![Complete project](images/showcase_static.png)
+
 --- /print-only ---
 
 
