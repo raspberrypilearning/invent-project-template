@@ -2,15 +2,15 @@
 title: invent-project-template
 hero_image: images/banner.png
 description: invent-project-template description
-version: 4
+version: 1
 listed: false
 copyedit: false
-last_tested: '2021-03-26'
+last_tested: '2025-01-01'
 steps:
-- title: Introduction
+- title: What you will make
 - title: Your idea
 - title: Build and test
 - title: Share
 - title: Reflection
-- title: Upgrade your project
-- title: What next?
+- title: Challenge
+- title: What can you do now?

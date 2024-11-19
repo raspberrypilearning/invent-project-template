@@ -1,9 +1,22 @@
-## What next?
+## What can you do now?
 
-You have reached the end of the [name of path](https://projects.raspberrypi.org/en/pathways/name-of-path) path!
+If you are following the [PATH NAME](https://projects.raspberrypi.org/en/pathways/PATH-NAME) pathway, you can move on to the [NEXT PROJECT/PATH NAME](https://projects.raspberrypi.org/en/projects/PROJECT-SLUG) project. In this project, you will do DESCRIPTION.
 
-Now you can bring all your ideas to life in Scratch. Try using Scratch to make more cool stuff. If you need a reminder of what you have learned, you can go to the [Scratch guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
+------ OR ---------
 
-[[[scratch-coolest-projects]]]
+Try our [PROJECT/PATH NAME](https://projects.raspberrypi.org/en/collections/PATH-SLUG) project pathway where you will DESCRIPTION.
 
-Or, you can explore our [other Scratch projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) and try them out.
+--- print-only --- 
+
+![ALT TEXT](images/IMAGE-FROM-PROJECT.png)
+
+--- /print-only ---
+
+--- no-print ---
+
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/STARTER_PROJECT_SLUG" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+
+--- /no-print ---
+
+Or, why not try out another [CODING_LANGUAGE](https://projects.raspberrypi.org/en/projects?software%5B%5D=CODING_LANGUAGE) project.
